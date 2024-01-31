@@ -638,6 +638,30 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT ./main.aux
 INPUT main.aux
 INPUT main.aux
@@ -677,68 +701,38 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-bas
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT ./titlepage.tex
-INPUT ./titlepage.tex
-INPUT ./titlepage.tex
-INPUT titlepage.tex
-INPUT ./titlepage.tex
-INPUT ./titlepage.tex
-INPUT titlepage.tex
+INPUT ./headerfooter.tex
+INPUT ./headerfooter.tex
+INPUT ./headerfooter.tex
+INPUT headerfooter.tex
+INPUT ./headerfooter.tex
+INPUT ./headerfooter.tex
+INPUT headerfooter.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT ./content.tex
+INPUT content.tex
+INPUT ./content.tex
+INPUT content.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT main.pdf
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT ./headerfooter.tex
-INPUT ./headerfooter.tex
-INPUT ./headerfooter.tex
-INPUT headerfooter.tex
-INPUT ./headerfooter.tex
-INPUT ./headerfooter.tex
-INPUT headerfooter.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./main.toc
-INPUT main.toc
-INPUT main.toc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-OUTPUT main.toc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT ./1_ section 1.tex
-INPUT ./1_ section 1.tex
-INPUT ./1_ section 1.tex
-INPUT 1_ section 1.tex
-INPUT ./1_ section 1.tex
-INPUT ./1_ section 1.tex
-INPUT 1_ section 1.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./2_ section 2.tex
-INPUT ./2_ section 2.tex
-INPUT ./2_ section 2.tex
-INPUT 2_ section 2.tex
-INPUT ./2_ section 2.tex
-INPUT ./2_ section 2.tex
-INPUT 2_ section 2.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT ../../plot_en.png
+INPUT ../../plot_en.png
+INPUT ../../plot_en.png
+INPUT ../../plot_en.png
+INPUT ../../plot_en.png
+INPUT ../../plot_it.png
+INPUT ../../plot_it.png
+INPUT ../../plot_it.png
+INPUT ../../plot_it.png
+INPUT ../../plot_it.png
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
