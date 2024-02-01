@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 1706813224 "main.bcf" "main.bbl" "main" 1706813230 0
-  "main.bcf" 1706813230 106450 b70b9d6197cac106e3c1a12a05e832e8 "pdflatex"
+["biber main"] 1706813622 "main.bcf" "main.bbl" "main" 1706813629 0
+  "main.bcf" 1706813628 106450 b70b9d6197cac106e3c1a12a05e832e8 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1706813229 "/Users/emma/nlp_assignments/exercise_one/latex_file/main.tex" "main.pdf" "main" 1706813230 0
-  "../../plot_en.png" 1706710117 18094 eae85e5b3733849ae6dd8d635089ad85 ""
-  "../../plot_it.png" 1706710129 18774 fca1f23dd539e2533dd0bebb78624ac6 ""
-  "/Users/emma/nlp_assignments/exercise_one/latex_file/main.tex" 1706813187 779 7ff8869eaa0055454e2c44ec2c5f521c ""
+["pdflatex"] 1706813627 "/Users/emma/nlp_assignments/exercise_one/latex_file/main.tex" "main.pdf" "main" 1706813629 0
+  "../plot_en.png" 1706710117 18094 eae85e5b3733849ae6dd8d635089ad85 ""
+  "../plot_it.png" 1706710129 18774 fca1f23dd539e2533dd0bebb78624ac6 ""
+  "/Users/emma/nlp_assignments/exercise_one/latex_file/main.tex" 1706813604 773 1942fb8c21c2b78ee95b4134abc347f1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -102,10 +102,10 @@
   "EngReport.sty" 1706359253 748 805ea08727a6b1ae905b91ce3a3df8be ""
   "content.tex" 1706813106 7446 43c1a42756c3afc7eb77effab329c900 ""
   "headerfooter.tex" 1706782574 276 683d4a82304e2e075738d1562dfec75e ""
-  "main.aux" 1706813230 809 bd951b65b9dabff615e5dd28b785f552 "pdflatex"
-  "main.bbl" 1706813227 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.run.xml" 1706813230 2224 bc6149f5caee4074188e1b81a66978d0 "pdflatex"
-  "main.tex" 1706813187 779 7ff8869eaa0055454e2c44ec2c5f521c ""
+  "main.aux" 1706813628 809 bd951b65b9dabff615e5dd28b785f552 "pdflatex"
+  "main.bbl" 1706813625 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
+  "main.run.xml" 1706813628 2224 bc6149f5caee4074188e1b81a66978d0 "pdflatex"
+  "main.tex" 1706813604 773 1942fb8c21c2b78ee95b4134abc347f1 ""
   (generated)
   "main.aux"
   "main.bcf"
