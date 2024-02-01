@@ -15,12 +15,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
 INPUT ./EngReport.sty
 INPUT ./EngReport.sty
 INPUT EngReport.sty
@@ -708,6 +706,7 @@ INPUT headerfooter.tex
 INPUT ./headerfooter.tex
 INPUT ./headerfooter.tex
 INPUT headerfooter.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT ./content.tex
 INPUT content.tex
@@ -715,8 +714,10 @@ INPUT ./content.tex
 INPUT content.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT main.pdf
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ../../plot_en.png
@@ -732,7 +733,7 @@ INPUT ../../plot_it.png
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb

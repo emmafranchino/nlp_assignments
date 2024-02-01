@@ -1,4 +1,4 @@
-\documentclass[12pt]{article}
+\documentclass{article}
 
 % document settings
 \usepackage{EngReport}
@@ -8,11 +8,8 @@
 \usepackage{graphicx}
 \usepackage{caption}
 
-
-%\bibliography{Sources.bib}
-
 \begin{document}
-
+\renewcommand{\familydefault}{\rmdefault}
 \input{headerfooter}
 
 \fontsize{11}{15}\selectfont{
@@ -20,7 +17,7 @@
 }
 
 \newpage
-\section{Figures}
+\section*{Figures}
 \begin{center}
     \includegraphics[width=0.8\textwidth]{../../plot_en.png}
     \captionof{figure}{Plot of words in the english poem}
@@ -32,7 +29,5 @@
     \captionof{figure}{Plot of words in the italian poem}
     \label{fig 2: italian poem}
 \end{center}
-
-%\printbibliography
 
 \end{document}
