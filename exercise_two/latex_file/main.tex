@@ -1,0 +1,49 @@
+\documentclass{article}
+
+% document settings
+\usepackage{EngReport}
+\geometry{letterpaper, portrait, includeheadfoot=true, hmargin=1in, vmargin=0.8in}
+\renewcommand{\familydefault}{\rmdefault}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{hyperref}
+
+\begin{document}
+\renewcommand{\familydefault}{\rmdefault}
+\input{headerfooter}
+
+\fontsize{11}{15}\selectfont{
+    \input{content.tex}
+}
+
+%\newpage
+\section*{Figures}
+
+\vspace{20pt}
+
+\begin{center}
+    \includegraphics[width=0.8\textwidth]{Avg. length table.png}
+    \captionof{figure}{Average length of names}
+    \label{fig 1: Average length of names}
+\end{center} 
+
+\begin{center}
+    \includegraphics[width=0.8\textwidth]{most_used_1999.png}
+    \captionof{figure}{Common names 1999}
+    \label{fig 2: Common names 1999}
+\end{center} 
+
+\begin{center}
+    \includegraphics[width=0.8\textwidth]{most_used_names_2014.png}
+    \captionof{figure}{Common names 2014}
+    \label{fig 3: Common names 2014}
+\end{center} 
+
+\begin{center}
+    \includegraphics[width=0.8\textwidth]{number_common_names_table.png}
+    \captionof{figure}{Number of common names}
+    \label{fig 4: Number of common names}
+\end{center}
+
+\end{document}
