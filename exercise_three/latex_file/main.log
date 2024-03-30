@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.27)  30 MAR 2024 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.27)  30 MAR 2024 23:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/emma/nlp_assignments/exercise_two/latex_file/main.tex
-(/Users/emma/nlp_assignments/exercise_two/latex_file/main.tex
+**/Users/emma/nlp_assignments/exercise_three/latex_file/main.tex
+(/Users/emma/nlp_assignments/exercise_three/latex_file/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -849,74 +849,74 @@ Package hyperref Info: Link coloring OFF on input line 12.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
- (./headerfooter.tex) (./content.tex
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 13.
- [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ (./headerfooter.tex) (./content.tex [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2])
-<Avg. length table.png, id=36, 360.6273pt x 62.8749pt>
-File: Avg. length table.png Graphic file (type png)
-<use Avg. length table.png>
-Package pdftex.def Info: Avg. length table.png  used on input line 26.
-(pdftex.def)             Requested size: 375.80544pt x 65.52072pt.
+<./figures/fig_1.png, id=42, 455.301pt x 339.669pt>
+File: ./figures/fig_1.png Graphic file (type png)
+<use ./figures/fig_1.png>
+Package pdftex.def Info: ./figures/fig_1.png  used on input line 23.
+(pdftex.def)             Requested size: 375.80544pt x 280.37032pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 27.
+(caption)                particular \caption on input line 24.
 See the caption package documentation for explanation.
 
-<most_used_1999.png, id=38, 337.26pt x 133.49875pt>
-File: most_used_1999.png Graphic file (type png)
-<use most_used_1999.png>
-Package pdftex.def Info: most_used_1999.png  used on input line 32.
-(pdftex.def)             Requested size: 375.80544pt x 148.75977pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 33.
-See the caption package documentation for explanation.
-
-<most_used_names_2014.png, id=39, 339.2675pt x 134.5025pt>
-File: most_used_names_2014.png Graphic file (type png)
-<use most_used_names_2014.png>
-Package pdftex.def Info: most_used_names_2014.png  used on input line 38.
-(pdftex.def)             Requested size: 375.80544pt x 148.99371pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 39.
-See the caption package documentation for explanation.
-
-[3 <./Avg. length table.png> <./most_used_1999.png>]
-<number_common_names_table.png, id=49, 604.8999pt x 41.9166pt>
-File: number_common_names_table.png Graphic file (type png)
-<use number_common_names_table.png>
-Package pdftex.def Info: number_common_names_table.png  used on input line 44.
-(pdftex.def)             Requested size: 375.80544pt x 26.04237pt.
+[3 <./figures/fig_1.png>]
+<./figures/fig_2.png, id=51, 455.301pt x 339.669pt>
+File: ./figures/fig_2.png Graphic file (type png)
+<use ./figures/fig_2.png>
+Package pdftex.def Info: ./figures/fig_2.png  used on input line 29.
+(pdftex.def)             Requested size: 375.80544pt x 280.37032pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 45.
+(caption)                particular \caption on input line 30.
 See the caption package documentation for explanation.
 
-[4 <./most_used_names_2014.png> <./number_common_names_table.png>] (./main.aux)
+<./figures/fig_3.png, id=52, 455.301pt x 339.669pt>
+File: ./figures/fig_3.png Graphic file (type png)
+<use ./figures/fig_3.png>
+Package pdftex.def Info: ./figures/fig_3.png  used on input line 35.
+(pdftex.def)             Requested size: 375.80544pt x 280.37032pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 36.
+See the caption package documentation for explanation.
+
+[4 <./figures/fig_2.png> <./figures/fig_3.png>]
+<./figures/fig_4.png, id=59, 455.301pt x 339.669pt>
+File: ./figures/fig_4.png Graphic file (type png)
+<use ./figures/fig_4.png>
+Package pdftex.def Info: ./figures/fig_4.png  used on input line 41.
+(pdftex.def)             Requested size: 375.80544pt x 280.37032pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 42.
+See the caption package documentation for explanation.
+
+[5 <./figures/fig_4.png>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 089B9729FCBCB47DC515414496D258F7;393.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24633 strings out of 476025
- 482519 string characters out of 5790017
- 1864388 words of memory out of 5000000
- 44786 multiletter control sequences out of 15000+600000
- 518565 words of font info for 53 fonts, out of 8000000 for 9000
+ 24608 strings out of 476025
+ 481963 string characters out of 5790017
+ 1865388 words of memory out of 5000000
+ 44767 multiletter control sequences out of 15000+600000
+ 514106 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,13n,117p,1343b,1147s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (4 pages, 124855 bytes).
+ 87i,12n,117p,828b,1060s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (5 pages, 131743 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
