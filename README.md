@@ -10,4 +10,5 @@ Each project deals with different issues:
 In each project folder you can find:
 - the Python script
 - the project report
+
 The project report can be found in the latex folder, opening the pdf file named "main.pdf".
