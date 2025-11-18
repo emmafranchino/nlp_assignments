@@ -11,3 +11,9 @@ In each project folder you can find:
 - Python script: the code used for the project was ran with Jupiter notebook (.ipynb file)
 - Eventual .txt files with the text analysed in the project
 - Project report: in the latex folder, stored in the pdf file named "main.pdf"
+
+## Lectures
+
+Jupyter Notebbok files of lectures included in the folder. 
+
+Important reporitory online used for our lectures: https://github.com/rmunro/pytorch_active_learning
